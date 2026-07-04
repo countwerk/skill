@@ -1,8 +1,9 @@
 # countwerk skill
 
-The agent skill for [countwerk](https://countwerk.ai): durable counters
-your agent can't reset. Spend caps, step limits, fleet budgets,
-blast-radius stops, and distinct counting, all over plain HTTP.
+The agent skill for [countwerk](https://countwerk.ai): a number on the
+internet. Your agents bump it for 3 millionths of a dollar; only you can
+turn it back. Spend caps, step limits, fleet budgets, blast-radius
+stops, and distinct counting, all over plain HTTP.
 
 ## Install
 
